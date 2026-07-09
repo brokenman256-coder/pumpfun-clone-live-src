@@ -1,2 +1,3 @@
-# pumpfun-clone-live-src
-pump.fun clone source for Vercel deploy
+# pumpfun-clone-live
+
+Vite + React pump.fun clone. Deployed via Vercel.
